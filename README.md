@@ -44,16 +44,24 @@ Use the Copy button to copy the results to the clipboard.
 ## Screenshoots 🖼️
 ### Default Option
 The output will include only the domain name, excluding any scheme (e.g., `http`, `https`) or `www` prefix.
+
 <img src="img/example2.png" alt="Default Option" style="width:75%;"/>
+
 
 ### HTTP Option
 Adds `http` to the result. If the input URL includes `https`, it will be maintained as `https`.
+
 <img src="img/example3.png" alt="HTTP Option" style="width:75%;"/>
+
 
 ### WWW Option
 Adds `www` to the output.
+
 <img src="img/example4.png" alt="WWW Option" style="width:75%;"/>
+
 
 ### Both Options Selected
 Combines both options by adding `http` and `www` to the result.
+
 <img src="img/example5.png" alt="Both Options Selected" style="width:75%;"/>
+
