@@ -1,4 +1,4 @@
-# URLCleaner 📕
+# URLCleaner 🧹
 
 # Introduction  📕 
 
@@ -29,7 +29,7 @@ python3 urlcleaner.py
 Type or paste a list of URLs into the upper text area.
 
 **Select Options:**
-Check the checkboxes to add http(s):// and/or www..
+Check the checkboxes to add `http(s)://` and/or `www`.
 
 **Extract Results:**
 Click the Extract button to process the URLs and display the results in the lower area.
@@ -44,16 +44,16 @@ Use the Copy button to copy the results to the clipboard.
 ## Screenshoots 🖼️
 ### Default Option
 The output will include only the domain name, excluding any scheme (e.g., `http`, `https`) or `www` prefix.
-![image2](img/example2.png)
+<img src="img/example2.png" alt="Default Option" style="width:75%;"/>
 
 ### HTTP Option
 Adds `http` to the result. If the input URL includes `https`, it will be maintained as `https`.
-![image3](img/example3.png)
+<img src="img/example3.png" alt="HTTP Option" style="width:75%;"/>
 
 ### WWW Option
 Adds `www` to the output.
-![image4](img/example4.png)
+<img src="img/example4.png" alt="WWW Option" style="width:75%;"/>
 
 ### Both Options Selected
 Combines both options by adding `http` and `www` to the result.
-![image5](img/example5.png)
+<img src="img/example5.png" alt="Both Options Selected" style="width:75%;"/>
