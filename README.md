@@ -19,9 +19,9 @@ sudo chmod +x urlcleaner.py
 Ensure you have Python installed. The code uses the Tkinter library, which is generally included with Python. If not, you can install it with:
 
 ```bash
-pip install tk
+sudo apt-get install python3-tk
 ``` 
-```
+```bash
 python3 urlcleaner.py
 ```
 ## Usage ▶️
